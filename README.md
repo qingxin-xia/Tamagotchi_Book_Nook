@@ -31,10 +31,10 @@ Embedded systems project with pixel animations, touch sensors, and various funct
 
 
 
-    
+
 
 <p align="center">
-  <img src="./assets/upperWindow.gif" alt="Demo Animation" />
+  <img src="./assets/upperWindow.gif" alt="Demo Animation" style="margin-top: 50px;"/>
 </p>
 <p align="center">
   <img src="./assets/bottomLeft.gif" alt="Demo Animation" />
