@@ -30,10 +30,10 @@ Embedded systems project with pixel animations, touch sensors, and various funct
     * If you would like to customize with personal animations, keep in mind to change the scale argument in drawIndexedFrame(), the height/width constants, Display_Backround_Color, and state machine logic detailed in the code comments
 
 <p align="center">
-  <img src="./assets/upperWindow.gif" alt="Demo Animation" width="600" />
+  <img src="./assets/upperWindow.gif" alt="Demo Animation" />
 </p>
 <p align="center">
-  <img src="./assets/upperWindow.gif" alt="Demo Animation" width="162" />
-  <img src="./assets/upperWindow.gif" alt="Demo Animation" width="150" />
+  <img src="./assets/bottomLeft.gif" alt="Demo Animation" />
+  <img src="./assets/bottomRightCoffee.gif" alt="Demo Animation" />
 </p>
 
