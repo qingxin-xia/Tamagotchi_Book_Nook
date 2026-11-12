@@ -29,3 +29,6 @@ Embedded systems project with pixel animations, touch sensors, and various funct
   * NOTE: currently the animation size for a single display is 52 * 39 and is enlarged by a factor of 6 in the code
     * If you would like to customize with personal animations, keep in mind to change the scale argument in drawIndexedFrame(), the height/width constants, Display_Backround_Color, and state machine logic detailed in the code comments
 
+![Demo Animation](./assets/upperWindow.gif)
+![Demo Animation](./assets/bottomLeft.gif) ![Demo Animation](./assets/bottomRightCoffee.gif)
+
